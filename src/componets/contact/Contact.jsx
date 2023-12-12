@@ -111,7 +111,7 @@ export const Contact = () => {
         {success && "Thank You For Conctacting Me,I reply as soon as possible 😊"}
         </motion.form>
       </div>
-      <div class="copyright">copyright © 2023. All Rights reserved</div>
+      <div className="copyright">copyright © 2023. All Rights reserved</div>
     </motion.div>
   );
 };

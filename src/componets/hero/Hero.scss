@@ -9,6 +9,9 @@
         max-width: 1366px;
         height: 100%;
         margin: auto;
+
+
+        
     }
 
     .textContanier{
@@ -44,6 +47,9 @@
             
         }
 
+        
+
+
         .buttons{
             button{
                 padding: 20px;
@@ -56,6 +62,8 @@
                 font-weight: 300;
                 
             }
+
+            
         }
 
         img{
@@ -73,7 +81,7 @@
         position: absolute;
         top: 0%;
         right: 0;
-        overflow: hidden;
+        // overflow: hidden;
 
 
         @include mobile{
@@ -83,6 +91,22 @@
             // top: unset;
             // bottom: 0;
         }
+
+        .Dow{
+            border: 1px solid white;
+            justify-content: center;
+            margin-left: -650px;
+            margin-top: 350px;
+            padding: 20px;
+            height: 55px;
+            width: 55px;
+            background-color: transparent;
+            border-radius: 10px;
+            color: white;
+            cursor: pointer;   
+            font-weight: 300;
+        }
+
         img{
             height: 100%;
             width: 100%;

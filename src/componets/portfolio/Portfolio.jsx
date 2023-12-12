@@ -10,6 +10,13 @@ const items = [
     desc: "Next 14 Server Side App with Server Actions, Infinite Scroll & Framer Motion Animations.Live Data Fetching with Shikimori-API",
     link: "https://ainme-info-dj-dev.vercel.app/",
   },
+  {
+    id: 2,
+    title: "Tooo Dooo's",
+    img: "https://i.postimg.cc/wvkm8nmh/Screenshot-645.png",
+    desc: "Your Too Doos With Google Authentication & Realtime Database Soon...",
+    link: "",
+  },
 ];
 
 const Single = ({ item }) => {
