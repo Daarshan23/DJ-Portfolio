@@ -14,8 +14,8 @@ const items = [
     id: 2,
     title: "Tooo Dooo's",
     img: "https://i.postimg.cc/wvkm8nmh/Screenshot-645.png",
-    desc: "Your Too Doos With Google Authentication & Realtime Database Soon...",
-    link: "",
+    desc: "Your Too Doos With Google Authentication & Realtime Database",
+    link: "https://to-do-with-google.vercel.app/",
   },
 ];
 
