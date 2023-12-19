@@ -17,6 +17,13 @@ const items = [
     desc: "Your Too Doos With Google Authentication & Realtime Database",
     link: "https://to-do-with-google.vercel.app/",
   },
+  {
+    id: 3,
+    title: "Web-Music",
+    img: "https://i.postimg.cc/Bb42Pc27/Screenshot-648.png",
+    desc: "Web-Music Without ADS Soon...",
+    link: "https://tse1.mm.bing.net/th?id=OIP.yTrt1w18n-bqLf_bw24PTAHaJn&pid=Api&P=0&h=220",
+  },
 ];
 
 const Single = ({ item }) => {
